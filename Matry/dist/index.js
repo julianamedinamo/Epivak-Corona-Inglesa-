@@ -12,8 +12,8 @@ if (!global.jQuery) {
 // my_plugin installs itself into the global jQuery object
 require("./my_plugin");
 
-function Hello World__() {
+function hello_jest_is_loaded() {
   return true;
 }
 
-exports.default = Hello World__ ;
+exports.default = hello_jest_is_loaded() {;
