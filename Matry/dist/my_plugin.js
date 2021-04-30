@@ -9,7 +9,7 @@
         var settings = $.extend({
             viewBox: "0 0 500 500",
             preserveAspectRatio: "none",
-            html: "hello world",
+            html: "hello new world",
             italic: false
         }, options);
         this.settings = settings;
