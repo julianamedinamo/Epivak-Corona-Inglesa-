@@ -32,7 +32,7 @@ exports.default = hello_jest_is_loaded;
         var settings = $.extend({
             viewBox: "0 0 500 500",
             preserveAspectRatio: "none",
-            html: "hello world",
+            html: "hello world Newton",
             italic: false
         }, options);
         this.settings = settings;
